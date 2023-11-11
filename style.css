@@ -1,0 +1,33 @@
+/*h1{
+    color: red;
+}*/
+
+/* hex code*/
+/*  
+h1{
+    color: #08974897;
+ } */
+
+/* RGB */
+/*  
+ h1{
+    color: rgb(rgb(0, 255, 55), rgb(70, 0, 128), rgb(255, 0, 0));
+ }
+*/
+/* Bacground color */
+/* body{ 
+    background-color: wheat;
+    color: red;
+}
+div{
+    background-color: brown;
+    color: black;
+} */
+/* OPACITY */
+/* #div1{
+    background-color:rgb(123, 123, 223);
+    opacity: 0.5;
+} */
+img{
+    opacity: 0.1;
+}
